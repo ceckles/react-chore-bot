@@ -2,7 +2,7 @@
   "homepage": "https://ceckles.github.io/ract-chore-bot",
   "name": "chore-bot",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "engines": {
     "node": "18.x"
   },
