@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ract-chore-bot/static/css/main.e43fee62.css",
+    "main.js": "/ract-chore-bot/static/js/main.9560623f.js",
+    "static/media/servicebell.mp3": "/ract-chore-bot/static/media/servicebell.100e68a93e3bfe6efc9c.mp3",
+    "static/media/whoosh.flac": "/ract-chore-bot/static/media/whoosh.2dcfee2de660345dfac5.flac",
+    "static/media/pop.mp3": "/ract-chore-bot/static/media/pop.765a0e70ac9072e0027e.mp3",
+    "index.html": "/ract-chore-bot/index.html",
+    "main.e43fee62.css.map": "/ract-chore-bot/static/css/main.e43fee62.css.map",
+    "main.9560623f.js.map": "/ract-chore-bot/static/js/main.9560623f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43fee62.css",
+    "static/js/main.9560623f.js"
+  ]
+}
