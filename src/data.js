@@ -4,7 +4,7 @@ export const data = [
     name: "Wash Dishes",
     day: "Sunday",
     status: true,
-    image: "icons/clean-dishes.png",
+    image: "/icons/clean-dishes.png",
     due: "2021-12-8 @ 18:52",
   },
   {
@@ -12,7 +12,7 @@ export const data = [
     name: "Sweep",
     day: "Saturday",
     status: true,
-    image: "icons/sweep.png",
+    image: "/icons/sweep.png",
     due: "2021-12-9 @ 12:55",
   },
   {
@@ -20,7 +20,7 @@ export const data = [
     name: "Dust",
     day: "Tuesday",
     status: true,
-    image: "./icons/dust.png",
+    image: "/icons/dust.png",
     due: "2021-12-09 @ 13:00",
   },
   {
@@ -28,7 +28,7 @@ export const data = [
     name: "Mop",
     day: "Saturday",
     status: true,
-    image: "./icons/mop.png",
+    image: "/icons/mop.png",
     due: "2021-12-19 @ 11:00",
   },
   {
@@ -36,7 +36,7 @@ export const data = [
     name: "Take out trash",
     day: "Monday",
     status: true,
-    image: "./icons/trash.png",
+    image: "/icons/trash.png",
     due: "2021-12-19 @ 09:00",
   },
   {
@@ -44,7 +44,7 @@ export const data = [
     name: "Laundry",
     day: "Wednesday",
     status: true,
-    image: "./icons/washing.png",
+    image: "/icons/washing.png",
     due: "2021-12-20 @ 17:30",
   },
 ];
